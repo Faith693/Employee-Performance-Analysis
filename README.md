@@ -23,7 +23,7 @@ The dataset includes:
 ---
 
 ## 📊 Dashboard
-![Dashboard](PASTE-IMAGE-LINK-HERE)
+![Dashboard]([PASTE-IMAGE-LINK-HERE](https://github.com/Faith693/Employee-Performance-Analysis/blob/main/Performance%20Dashboard.png))
 
 ---
 
